@@ -1,12 +1,19 @@
-# Spring Framework Projects
+## Project Description
 
-This repository contains two Java applications developed using the Spring Framework as part of the university curriculum. The projects demonstrate core Spring functionalities, including security, database integration, and API documentation.
+This project is a REST API application created using Spring Boot. Designed to manage a product catalog. This project demonstrates a clean 3-tier architecture (Controller, Service, Repository) using Spring Data JPA and an H2 in-memory database.
 
-## Features
-- **Task 1 & Task 2**: Functional Spring Boot applications.
-- **Spring Security**: Integrated authentication system.
-- **H2 Console**: In-memory database management.
-- **Swagger UI**: Interactive API documentation for testing endpoints.
+The application supports:
+
+- creating products,
+- getting product by ID,
+- getting all products,
+- updating product,
+- deleting product,
+- exception handling,
+- Swagger UI documentation,
+- H2 database integration,
+- Spring Data JPA.
+
 
 ## Project Screenshots
 
